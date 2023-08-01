@@ -7,7 +7,7 @@ You are free to make changes to my code and optimize it.
 gcc -o mp3_transmit mp3_transmit.c -lm -lmpg123 -lsndfile -lhackrf
 
 <h1> Usage: </h1>
-./mp3_transmit <Absolute File Path>
+./mp3_transmit Absolute_File_Path
   
 <h1> Issues: </h1>
 First install all the necessary libraries
