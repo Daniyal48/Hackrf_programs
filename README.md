@@ -11,4 +11,4 @@ gcc -o mp3_transmit mp3_transmit.c -lm -lmpg123 -lsndfile -lhackrf
   
 <h1> Issues: </h1>
 First install all the necessary libraries
-**sudo apt install libhackrf-dev mpg123 libsndfile1**
+**sudo** **apt** **install** **libhackrf-dev** **mpg123** **libsndfile1**
