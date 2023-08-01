@@ -10,5 +10,5 @@ gcc -o mp3_transmit mp3_transmit.c -lm -lmpg123 -lsndfile -lhackrf
 ./mp3_transmit Absolute_File_Path
   
 <h1> Issues: </h1>
-First install all the necessary libraries
-**sudo** **apt** **install** **libhackrf-dev** **mpg123** **libsndfile1**
+<p>First install all the necessary libraries.<br>
+<b>sudo apt install libhackrf-dev mpg123 libsndfile1</b></p>
