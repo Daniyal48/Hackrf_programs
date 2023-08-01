@@ -1,8 +1,9 @@
 <h1> Hackrf_programs </h1>
 <p>This repository ciontains simple and small programs for hackrf mostly focusing on transmission side of the hackerf One.<br>
 You are free to make changes to my code and optimize it.</p>
-</h1> Compilation: </h1>
-gcc -o mp3_transmit mp3_transmit.c -lm -lmpg123 -lsndfile -lhackrf
+
+</h1>Compilation:</h1>
+<b>gcc -o mp3_transmit mp3_transmit.c -lm -lmpg123 -lsndfile -lhackrf</b>
 
 <h1> Usage: </h1>
 ./mp3_transmit Absolute_File_Path
