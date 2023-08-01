@@ -1,5 +1,5 @@
 <h1> Hackrf_programs </h1>
-<p>This repository ciontains simple and small programs for hackrf mostly focusing on transmission side of the hackerf One.<br>
+<p>This repository contains simple and small programs for hackrf mostly focusing on transmission side of the hackerf One.<br>
 You are free to make changes to my code and optimize it.</p>
 
 <h1>Compilation:</h1>
