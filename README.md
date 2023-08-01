@@ -1,8 +1,6 @@
 <h1> Hackrf_programs </h1>
-This repository ciontains simple and small programs for hackrf mostly focusing on transmission side of the hackerf One
-Credits to: https://github.com/aricwang88/hackrf_WBFM_Transmit.
-I made changes to this code and added some additional functions.
-You are free to make changes to my code and optimize it.
+<p>This repository ciontains simple and small programs for hackrf mostly focusing on transmission side of the hackerf One.<br>
+You are free to make changes to my code and optimize it.</p>
 </h1> Compilation: </h1>
 gcc -o mp3_transmit mp3_transmit.c -lm -lmpg123 -lsndfile -lhackrf
 
@@ -12,3 +10,6 @@ gcc -o mp3_transmit mp3_transmit.c -lm -lmpg123 -lsndfile -lhackrf
 <h1> Issues: </h1>
 <p>First install all the necessary libraries.<br>
 <b>sudo apt install libhackrf-dev mpg123 libsndfile1</b></p>
+
+<h1>Credits:</h1>
+Credits to: https://github.com/aricwang88/hackrf_WBFM_Transmit.
